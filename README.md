@@ -1,7 +1,7 @@
 # Arabic Object Charachter Recognition (OCR) ...
 Here’s our progress and the evaluation of the project.
 
-![Progress](http://progressed.io/bar/05)
+      ![Progress](http://progressed.io/bar/05)
 
 ## Overview
 There are a lot of problems with Arabic recognition system and our project is to make a system that recognize all Arabic characters with any way like Hand writing, Computer font printed ... and so on
