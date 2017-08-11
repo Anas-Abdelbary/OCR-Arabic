@@ -11,7 +11,7 @@ There are a lot of problems with Arabic recognition system and our project is to
  * OpenCV.
  * Image Processing.
  * Machine Learning.
- * Artifichial Intelligent.
+ * Artificial Intelligent.
  * Competitive programimng and algorithm.
 
 ### Related Projects
