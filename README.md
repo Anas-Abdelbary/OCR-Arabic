@@ -64,7 +64,7 @@ Below OCR documents are good references:
 6. https://www.mathworks.com/support/learn-with-matlab-tutorials.html?requestedDomain=www.mathworks.com.
 7. https://goo.gl/wFBRRL.
 8. https://www.youtube.com/playlist?list=PLAp0ZhYvW6XbEveYeefGSuLhaPlFML9gP.
-9. http://www.bogotobogo.com/cplusplus/opencv.php #### "New Resource".
+9. http://www.bogotobogo.com/cplusplus/opencv.php ----> "New Resource".
 
 
 
